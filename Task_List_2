@@ -1,0 +1,15 @@
+Tasks:
+1: Print numbers 1 through 5.
+2. Print sum of 3 and 4.
+3: Print sum of constant pi and square root of 2. Note that you will have to import math library before you do this by calling” import math” on the shell i.e.,
+>>> import math
+You can then call math.pi and math.sqrt to achieve this task. First try calling math.pi and math.sqrt(2) individually to see if you are getting the correct results.
+4. Print sum of cos30 + sin30 where cos and sin are trigonometric functions and angle specified is in degrees. You can call math functions math.cos and math.sin but you have to express degrees in radians. pi radians is 180 degrees.
+5. Write code to print values of integers x, y, and z in a single line such that each value is left-justified in 6 columns.
+6. Write code to print area of a circle given the value of the radius of the circle.
+7. Write code to print the greater of two given numbers x and y.
+8. Write code to print the result of negation of AND of two Boolean variables A and B.
+9. Write a for-loop to sum the first 10 non-zero integers.
+10. Write a while-loop to sum the first 10 non-zero integers.
+Open a file in IDLE and save the code for the tasks in that file, save the file as yourname.py and upload into Vocareum.
+Reflect on your learning in this week's Reflections Journal section.
