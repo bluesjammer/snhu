@@ -55,8 +55,6 @@ print("The sum of the cosine of 30 degrees and the sine of 30 degrees is " + str
 # Task_5
 # Write code to print values of integers x, y, and z in a single line such that each value is left-justified in 6 columns.
 
-import math
-
 x = input("Please type an integer. \n")
 y = input("Please type a second integer. \n")
 z = input("Please type a third integer. \n")
